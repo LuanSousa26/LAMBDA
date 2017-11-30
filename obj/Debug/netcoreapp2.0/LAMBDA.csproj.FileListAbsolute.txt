@@ -1,0 +1,10 @@
+C:\Users\lalvess\Desktop\LAMBDA\bin\Debug\netcoreapp2.0\LAMBDA.deps.json
+C:\Users\lalvess\Desktop\LAMBDA\bin\Debug\netcoreapp2.0\LAMBDA.runtimeconfig.json
+C:\Users\lalvess\Desktop\LAMBDA\bin\Debug\netcoreapp2.0\LAMBDA.runtimeconfig.dev.json
+C:\Users\lalvess\Desktop\LAMBDA\bin\Debug\netcoreapp2.0\LAMBDA.dll
+C:\Users\lalvess\Desktop\LAMBDA\bin\Debug\netcoreapp2.0\LAMBDA.pdb
+C:\Users\lalvess\Desktop\LAMBDA\obj\Debug\netcoreapp2.0\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\lalvess\Desktop\LAMBDA\obj\Debug\netcoreapp2.0\LAMBDA.AssemblyInfoInputs.cache
+C:\Users\lalvess\Desktop\LAMBDA\obj\Debug\netcoreapp2.0\LAMBDA.AssemblyInfo.cs
+C:\Users\lalvess\Desktop\LAMBDA\obj\Debug\netcoreapp2.0\LAMBDA.dll
+C:\Users\lalvess\Desktop\LAMBDA\obj\Debug\netcoreapp2.0\LAMBDA.pdb
